@@ -71,11 +71,6 @@ const App = () => {
             </a>
           </li>
           <li>
-            <a href="/#link2" onClick={toggleMenu}>
-              About
-            </a>
-          </li>
-          <li>
             <a href="/#link3" onClick={toggleMenu}>
               FAQ
             </a>
@@ -96,9 +91,6 @@ const App = () => {
           <img className="nav-logo" src="/img/logo.png" alt="" />
           <a className="hide-800" href="/#link1">
             Welcome
-          </a>
-          <a className="hide-800" href="/#link2">
-            About
           </a>
           <a className="hide-800" href="/#link3">
             FAQ
@@ -144,10 +136,6 @@ const App = () => {
             Cryptonerds are a collection of 2555 uniqiley hand drawn collection of the coolest nerds on the solana blockchain
           </div>
 
-          <div id="link3" className="container card">
-            <h1 className="pb-3">Lorem ipsum</h1>
-          </div>
-
           <div id="link4" className="container faq">
             <h1 style={{ padding: "0 0 24px 0" }}>FAQ</h1>
             <div>
@@ -162,7 +150,7 @@ const App = () => {
             <div>
               <h4>Supply?</h4>
               <p>
-               2555
+               1234
               </p>
 
               <hr />
