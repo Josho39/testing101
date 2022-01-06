@@ -159,7 +159,7 @@ const App = () => {
             <div>
               <h4>Mint Date?</h4>
               <p>
-                9th Jan 2022
+                10th Jan 2022
               </p>
 
               <hr />
