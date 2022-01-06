@@ -67,22 +67,17 @@ const App = () => {
           </li>
           <li>
             <a href="/#link1" onClick={toggleMenu}>
-              Link 1
+              Welcome
             </a>
           </li>
           <li>
             <a href="/#link2" onClick={toggleMenu}>
-              Link 2
+              About
             </a>
           </li>
           <li>
             <a href="/#link3" onClick={toggleMenu}>
-              Link 3
-            </a>
-          </li>
-          <li>
-            <a href="/#link4" onClick={toggleMenu}>
-              Link 4
+              FAQ
             </a>
           </li>
           <li>
@@ -100,16 +95,13 @@ const App = () => {
         <div className="nav-container">
           <img className="nav-logo" src="/img/logo.png" alt="" />
           <a className="hide-800" href="/#link1">
-            Link 1
+            Welcome
           </a>
           <a className="hide-800" href="/#link2">
-            Link 2
+            About
           </a>
           <a className="hide-800" href="/#link3">
-            Link 3
-          </a>
-          <a className="hide-800" href="/#link4">
-            Link 4
+            FAQ
           </a>
           <div className="social-icons hide-800">
             <img className="nav-social" src="/icons/twitter.svg" alt="" />
@@ -123,11 +115,7 @@ const App = () => {
               <h3 className="text-secondary-color">Welcome To</h3>
               <h1 className="pb-3">The Boiler Plate</h1>
               <p className="text-secondary-color">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                scelerisque ipsum non est porta mollis. Donec sapien sapien, dictum
-                eget enim sed, hendrerit semper orci. Donec ante magna, consequat at
-                eros ac, eleifend dictum sem. Nam vitae condimentum lorem.
-                Vestibulum molestie dui turpis, tincidunt porta sem congue nec.
+                Cryptonerds
               </p>
             </div>
             <div>
@@ -153,19 +141,7 @@ const App = () => {
           </header>
 
           <div id="link2" className="container">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac velit
-            aliquet, semper sapien sed, ornare augue. Phasellus sed velit interdum,
-            sagittis metus quis, facilisis lectus. Cras sollicitudin purus at magna
-            eleifend maximus. Nulla nec nulla in nunc maximus viverra in at mauris.
-            Fusce sodales dolor nisi, et vehicula orci porta id. In placerat nunc
-            sed erat lacinia tincidunt. Interdum et malesuada fames ac ante ipsum
-            primis in faucibus. Vestibulum commodo eget metus vitae tempus. Aliquam
-            pharetra mi at efficitur accumsan. Curabitur venenatis libero a ex
-            porttitor, at auctor turpis hendrerit. Nam commodo, risus non consequat
-            pretium, erat ante auctor purus, a cursus dolor erat at velit. Maecenas
-            dignissim, dolor sed laoreet aliquam, tortor lacus faucibus urna, eget
-            mattis massa sem ac dui. Nam semper hendrerit interdum. Etiam at dictum
-            nisi.
+            Cryptonerds are a collection of 2555 uniqiley hand drawn collection of the coolest nerds on the solana blockchain
           </div>
 
           <div id="link3" className="container card">
@@ -175,33 +151,27 @@ const App = () => {
           <div id="link4" className="container faq">
             <h1 style={{ padding: "0 0 24px 0" }}>FAQ</h1>
             <div>
-              <h4>Lorem ipsum?</h4>
+              <h4>Mint Cost?</h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
-                vitae.
+                0.7 Sol
               </p>
 
               <hr />
             </div>
 
             <div>
-              <h4>Lorem ipsum?</h4>
+              <h4>Supply?</h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
-                vitae.
+               2555
               </p>
 
               <hr />
             </div>
 
             <div>
-              <h4>Lorem ipsum?</h4>
+              <h4>Mint ate?</h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
-                vitae.
+                9th Jan 2022
               </p>
 
               <hr />
