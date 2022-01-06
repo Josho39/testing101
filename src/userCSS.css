@@ -1,14 +1,14 @@
 :root {
   
   /* Main Settings  */
-  --main-background-color: rgb(74, 9, 143);
+  --main-background-color: rgb(153, 153, 153);
 
   --text-primary-color: rgb(0, 0, 0);
-  --text-secondary-color: rgb(0, 0, 0);
+  --text-secondary-color: rgb(68, 68, 68);
 
   /* Nav Settings  */
   --nav-link-color: rgb(0, 0, 0);
-  --nav-link-hover-color: rgb(0, 0, 0);
+  --nav-link-hover-color: rgb(87, 87, 87);
   --nav-link-hover-background-color: none;
   --nav-background-color: none;
   --nav-height: 150px;
@@ -17,27 +17,27 @@
 
   /* Mobile Nav Settings  */
 
-  --mobile-nav-background-color: rgb(74, 9, 143);
+  --mobile-nav-background-color: rgb(153, 153, 153);
   --mobile-nav-logo-height:100px;
-  --mobile-nav-link-color: rgb(0, 0, 0);
-  --mobile-nav-link-hover-color: rgb(0, 0, 0);
+  --mobile-nav-link-color: rgb(65, 65, 65);
+  --mobile-nav-link-hover-color: rgb(29, 29, 29);
   --mobile-nav-link-size: 20px;
 
   /* Card Settings  */
-  --card-background-color: rgb(9, 87, 10);
-  --card-border-radius: 20px;
-  --card-shadow: 10px 10px 20px -13px rgb(10, 247, 13);
+  --card-background-color: rgb(56, 56, 56);
+  --card-border-radius: 10px;
+  --card-shadow: 10px 10px 20px -13px rgb(8, 8, 8);
 
   /* Minting Area */
-  --minting-box-color: #cc12c0;
-  --minting-box-heading-color: black;
-  --minting-box-info-box-color: rgb(74, 9, 143);
-  --minting-box-text-color: black;
+  --minting-box-color: #151A1F;
+  --minting-box-heading-color: white;
+  --minting-box-info-box-color: rgb(8, 8, 8);
+  --minting-box-text-color: white;
 
 
   /* Minting Button */
-  --minting-button-color: linear-gradient(180deg,#72f294 0%,#000000 100%);
-  --minting-button-text-color: Black;
+  --minting-button-color: linear-gradient(180deg,#604ae5 0%,#813eee 100%);
+  --minting-button-text-color: white;
 
 }
 
