@@ -1,7 +1,7 @@
 :root {
   
   /* Main Settings  */
-  --main-background-color: rgb(204, 18, 192);
+  --main-background-color: rgb(74, 9, 143);
 
   --text-primary-color: rgb(0, 0, 0);
   --text-secondary-color: rgb(0, 0, 0);
@@ -17,7 +17,7 @@
 
   /* Mobile Nav Settings  */
 
-  --mobile-nav-background-color: rgb(204, 18, 192);
+  --mobile-nav-background-color: rgb(74, 9, 143);
   --mobile-nav-logo-height:100px;
   --mobile-nav-link-color: rgb(0, 0, 0);
   --mobile-nav-link-hover-color: rgb(0, 0, 0);
@@ -31,7 +31,7 @@
   /* Minting Area */
   --minting-box-color: #cc12c0;
   --minting-box-heading-color: black;
-  --minting-box-info-box-color: rgb(204, 18, 192);
+  --minting-box-info-box-color: rgb(74, 9, 143);
   --minting-box-text-color: black;
 
 
