@@ -3,8 +3,8 @@
   /* Main Settings  */
   --main-background-color: rgb(0, 0, 0);
 
-  --text-primary-color: rgb(0, 0, 0);
-  --text-secondary-color: rgb(0, 0, 0);
+  --text-primary-color: rgb(255, 255, 255);
+  --text-secondary-color: rgb(255, 255, 255);
 
   /* Nav Settings  */
   --nav-link-color: rgb(255, 255, 255);
@@ -25,8 +25,8 @@
 
   /* Card Settings  */
   --card-background-color: rgb(30, 168, 67);
-  --card-border-radius: 10px;
-  --card-shadow: 10px 10px 20px -13px rgb(114, 242, 148);
+  --card-border-radius: 20px;
+  --card-shadow: 10px 10px 20px -13px rgb(134, 242, 148);
 
   /* Minting Area */
   --minting-box-color: #151A1F;
