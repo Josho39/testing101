@@ -105,9 +105,9 @@ const App = () => {
           <header className="card" id="link1">
             <div style={{ padding: "0 24px 0 24px 0" }}>
               <h3 className="text-secondary-color">Welcome To</h3>
-              <h1 className="pb-3">The Boiler Plate</h1>
+              <h1 className="pb-3">The Crypronerds</h1>
               <p className="text-secondary-color">
-                Cryptonerds
+              Connect your wallet, verify you are not a bot and mint
               </p>
             </div>
             <div>
@@ -133,7 +133,7 @@ const App = () => {
           </header>
 
           <div id="link2" className="container">
-            Cryptonerds are a collection of 2555 uniqiley hand drawn collection of the coolest nerds on the solana blockchain
+            Cryptonerds are a collection of 1234 uniqiley hand drawn collection of the coolest nerds on the solana blockchain
           </div>
 
           <div id="link4" className="container faq">
@@ -157,7 +157,7 @@ const App = () => {
             </div>
 
             <div>
-              <h4>Mint ate?</h4>
+              <h4>Mint Date?</h4>
               <p>
                 9th Jan 2022
               </p>
