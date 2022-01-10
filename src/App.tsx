@@ -141,7 +141,8 @@ const App = () => {
             <div>
               <h4>Mint Cost?</h4>
               <p>
-                0.7 Sol
+                0.5 Sol Presale
+                0.7 Sol Public Sale
               </p>
 
               <hr />
