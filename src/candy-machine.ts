@@ -22,8 +22,6 @@ const TOKEN_METADATA_PROGRAM_ID = new anchor.web3.PublicKey(
 
 interface CandyMachineState {
   itemsAvailable: number;
-  itemsRedeemed: number;
-  itemsRemaining: number;
   treasury: anchor.web3.PublicKey;
   tokenMint: anchor.web3.PublicKey;
   isSoldOut: boolean;
